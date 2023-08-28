@@ -44,7 +44,7 @@ After performing the aforementioned operations, the contents of the 'Events' fol
 
 ## Estimate Electric Network Frequency using E-ENF
 
-<img src='https://github.com/xlx-creater/E-ENF/blob/main/GUI.png' />
+<img src='https://github.com/xlx-creater/Improved_E-ENF/main/GUI.png' />
 
 To use the GUI interface shown above, run 'E_ENF/E_ENF(GUI)/ENF_match_GUI.py' and follow these steps:
 
@@ -53,16 +53,3 @@ To use the GUI interface shown above, run 'E_ENF/E_ENF(GUI)/ENF_match_GUI.py' an
 3. Press the 'Start' button to initiate the estimation of the ENF signal from the selected event stream. The estimated result will be displayed in the middle of the GUI.
 
 
-## Citation
-
-Please cite our work if you use the code.
-
-```
-@inproceedings{xu2023seeing,
-  title={"Seeing" Electric Network Frequency From Events},
-  author={Xu, Lexuan and Hua, Guang and Zhang, Haijian and Yu, Lei and Qiao, Ning},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={18022--18031},
-  year={2023}
-}
-```
