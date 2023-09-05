@@ -44,7 +44,7 @@ After performing the aforementioned operations, the contents of the 'Events' fol
 
 ## Estimate Electric Network Frequency using E-ENF
 
-<img src='https://github.com/xlx-creater/Improved_E-ENF/main/GUI.png' />
+<img src='https://github.com/xlx-creater/Improved_E-ENF/blob/main/GUI.png' />
 
 To use the GUI interface shown above, run 'E_ENF/E_ENF(GUI)/ENF_match_GUI.py' and follow these steps:
 
