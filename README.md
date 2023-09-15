@@ -1,10 +1,10 @@
-# [Unveiling Electric Network Frequency from Events](https://xlx-creater.github.io/Improved_E-ENF/)
+# [“Seeing” ENF from Neuromorphic Events: Modeling and Robust Estimation](https://xlx-creater.github.io/Improved_E-ENF/)
 
 ### [Project Page](https://xlx-creater.github.io/Improved_E-ENF/) | [Paper](https://arxiv.org/pdf/2305.02597.pdf) | [Data](https://whueducn-my.sharepoint.com/:f:/g/personal/2018302120267_whu_edu_cn/EkJtb2JNiWtJnASq_kckTZ8BAVymlOXmrEthItfKRVtGmA?e=RNNzez)
 
-<img src='https://github.com/xlx-creater/E-ENF/blob/main/Illustration.png'/> 
+<img src='https://github.com/xlx-creater/E-ENF/blob/main/Intro.svg'/> 
 
-> [Unveiling Electric Network Frequency from Events](https://xlx-creater.github.io/Improved_E-ENF/) 
+> [“Seeing” ENF from Neuromorphic Events: Modeling and Robust Estimation](https://xlx-creater.github.io/Improved_E-ENF/) 
 >
 >  [Lexuan Xu](https://scholar.google.com.hk/citations?hl=zh-CN&user=g3itm8IAAAAJ), [Guang Hua](https://ghua-ac.github.io/), [Haijian Zhang](https://scholar.google.com/citations?user=cEWbejoAAAAJ&hl=zh-CN&oi=ao), [Lei Yu](https://scholar.google.com/citations?user=Klc_GHUAAAAJ&hl=zh-CN).
 >
