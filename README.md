@@ -2,7 +2,7 @@
 
 ### [Project Page](https://xlx-creater.github.io/Improved_E-ENF/) | [Paper](https://arxiv.org/pdf/2305.02597.pdf) | [Data](https://whueducn-my.sharepoint.com/:f:/g/personal/2018302120267_whu_edu_cn/EkJtb2JNiWtJnASq_kckTZ8BAVymlOXmrEthItfKRVtGmA?e=RNNzez)
 
-<img src='https://github.com/xlx-creater/E-ENF/blob/main/Intro.svg'/> 
+<img src='https://github.com/xlx-creater/Improved_E-ENF/blob/main/Intro.svg'/> 
 
 > [“Seeing” ENF from Neuromorphic Events: Modeling and Robust Estimation](https://xlx-creater.github.io/Improved_E-ENF/) 
 >
